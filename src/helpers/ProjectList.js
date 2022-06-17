@@ -6,18 +6,22 @@ import gymImage from '../assets/gymapp.png'
 export const projectList = [
     {
         name: "NFT Marketplace",
-        image: nftImage
+        image: nftImage,
+        skills: "JS, CSS"
     },
     {
         name: "Admin Panel",
-        image: adminImage
+        image: adminImage,
+        skills: "JS, CSS"
     },
     {
         name: "Terminal File Transfer",
-        image: termtransferImage
+        image: termtransferImage,
+        skills: "JS, CSS"
     },
     {
         name: "Fitness Trainer",
-        image: gymImage
+        image: gymImage,
+        skills: "JS, CSS"
     },
 ]
